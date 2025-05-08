@@ -12,13 +12,15 @@ tags:
 * Called at 10:40 AM, left a message asking for a statement and providing my phone number and email address
 * I said I would phone back tomorrow if I didn't receive anything
 
-# Return Call
+# Return Call Notes
 
 FRO called back:
 
 * They don't email due to fraud, so they will mail the documents, items include:
   * Statement of payments
   * Enrollment ID for online access
+
+## Back Support Adjustment
 
 * They did a radical adjustment lowering my back support from over $90,000 to less than $19,000.
 * The adjustment is based on the graduation dates that Tara provided to FRO:
