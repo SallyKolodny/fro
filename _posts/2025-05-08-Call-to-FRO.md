@@ -21,9 +21,12 @@ FRO called back:
   * Enrollment ID for online access
 
 * They did a radical adjustment lowering my back support from over $90,000 to less than $19,000.
-* The adjustment is based on the kids graduation dates
-  * Madeline: Oct. 31, 2018
-  * Hailey: Apr. 30, 2019
+* The adjustment is based on the graduation dates that Tara provided to FRO:
+
+| Name     | Alleged Graduation Date 
+|----------|------------------------
+| Madeline | Oct. 31, 2018
+| Hailey   | Apr. 30, 2019
 
 
 
