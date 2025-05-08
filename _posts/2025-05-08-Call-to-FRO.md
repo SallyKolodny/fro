@@ -7,6 +7,13 @@ tags:
   - Payments
 ---
 
+# Call Notes
+
+* Called at 10:40 AM, left a message asking for a statement and providing my phone number and email address
+* I said I would phone back tomorrow if I didn't receive anything
+
+# FRO Information
+
 Item              | Value
 ------------------|-----------------
 FRO Case Number   | 0670906
