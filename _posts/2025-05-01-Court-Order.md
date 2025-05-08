@@ -6,7 +6,7 @@ tags:
   - CourtOrder
 ---
 
-![Page 1](/court-orders/court-order-01.jpg)
+![Page 1](/court-order/court-order-01.png)
 
-![Page 2](/court-orders/court-order-02.jpg)
+![Page 2](/court-order/court-order-02.png)
 
