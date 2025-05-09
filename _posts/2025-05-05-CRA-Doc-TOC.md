@@ -6,6 +6,8 @@ tags:
   - CRA
 ---
 
+---
+
 # Table of Contents
 
 * [2017 Tax Year](#2017-tax-year)
@@ -19,7 +21,10 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
+| 2018/04/30    | [2017 Notice of Assessment](/CRA-docs/2018-04-30-Notice-of-Assessment-for-2017.pdf)
+| 2018/04/30    | [2017 Assessment](/CRA-docs/2017-Assessment.pdf)
 | 2018/04/30    | [2017 Reassessment Letter](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
+| 2018/04/20    | [2017 Reassessment](/CRA-docs/2017-income-tax.pdf)
 
 [Back to the top](#table-of-contents)
 
@@ -29,12 +34,12 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
-| 2019/08/30    | [2016 Reassessment](/CRA-docs/2016-income-tax.pdf) DUPE?
-| 2019/08/30    | [2016 Reassessment](/CRA-docs/2016-Reassessment-3.pdf)
+| 2019/08/30    | [2016 Reassessment](/CRA-docs/2016-income-tax.pdf) 
 | 2019/04/04    | [2016 Reassessment](/CRA-docs/2016-Reassessment-2.pdf)
 | 2018/09/24    | [2016 Reassessment](/CRA-docs/2016-Reassessment-1.pdf)
 | 2018/05/07    | [2016 Assessment](/CRA-docs/2016-Assessment.pdf)
-| 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf)
+| 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2018-05-07-Notice-of-Assessment-for-2016.pdf)
+| 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf) DUPE?
 
 [Back to the top](#table-of-contents)
 
@@ -62,10 +67,6 @@ tags:
 
 ---
 
-* [2017 Assessment](/CRA-docs/2017-Assessment.pdf)
-* [2017 Income Tax](/CRA-docs/2017-income-tax.pdf)
-* [2018 Notice of Assessment for 2017](/CRA-docs/2018-04-30-Notice-of-Assessment-for-2017.pdf)
-* [2018/05/07 Notice of Assessment](/CRA-docs/2018-05-07-Notice-of-Assessment-for-2016.pdf)
 * [2018/05/14 PAD Aggreement Letter](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 * [2018/06/05 GST/HST Notice for 2016](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
 * [2018/06/08 OTB Notice for 2016](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
