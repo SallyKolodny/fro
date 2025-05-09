@@ -12,7 +12,9 @@ tags:
 * [2016 Tax Year](#2016-tax-year)
 * [2015 Tax Year](#2015-tax-year)
 * [2014 Tax Year](#2014-tax-year)
+
 ---
+
 # 2017 Tax Year
 
 | Document Date | Document Description
@@ -20,7 +22,9 @@ tags:
 | 2018/04/30    | [2017 Reassessment Letter](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
 
 [Back to the top](#table-of-contents)
+
 ---
+
 # 2016 Tax Year
 
 | Document Date | Document Description
@@ -33,7 +37,9 @@ tags:
 | 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf)
 
 [Back to the top](#table-of-contents)
+
 ---
+
 # 2015 Tax Year
 
 | Document Date | Document Description
@@ -43,7 +49,9 @@ tags:
 | 2016/10/18    | [2015 Reassessment Letter](/CRA-docs/2015-income-tax.pdf)
 
 [Back to the top](#table-of-contents)
+
 ---
+
 # 2014 Tax Year
 
 | Document Date | Document Description
@@ -51,6 +59,7 @@ tags:
 | 2014/05/01    | [2014 Assessment](/CRA-docs/2014-income-tax.pdf)
 
 [Back to the top](#table-of-contents)
+
 ---
 
 * [2017 Assessment](/CRA-docs/2017-Assessment.pdf)
