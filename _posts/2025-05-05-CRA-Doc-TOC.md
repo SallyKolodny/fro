@@ -6,12 +6,13 @@ tags:
   - CRA
 ---
 
-* [2014 Assessment](/CRA-docs/2014-income-tax.pdf)
-
-* [2015 Assessment](/CRA-docs/2015-Assessment.pdf)
-* [2015 Income Tax](/CRA-docs/2015-income-tax.pdf)
-* [2015 Reassessment](/CRA-docs/2015-Reassessment.pdf)
-* [2016/03/17 Notice of Assessment](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
+| Document Date | Document Description
+|---------------|------------------------------------------
+| 2014/05/01    | [2014 Assessment](/CRA-docs/2014-income-tax.pdf)
+| 2015/03/17    | [2015 Assessment](/CRA-docs/2015-Assessment.pdf)
+| 2016/10/18    | [2015 Reassessment Letter](/CRA-docs/2015-income-tax.pdf)
+| 2016/10/18    | [2015 Reassessment](/CRA-docs/2015-Reassessment.pdf)
+| 2018/04/30    | [2017 Reassessment Letter](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
 * [2016/05/07 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf)
 * [2016 Assessment](/CRA-docs/2016-Assessment.pdf)
 * [2016 Income Tax](/CRA-docs/2016-income-tax.pdf)
