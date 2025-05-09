@@ -19,6 +19,8 @@ tags:
 |---------------|------------------------------------------
 | 2018/04/30    | [2017 Reassessment Letter](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
 
+[Back to the top](#table-of-contents)
+
 # 2016 Tax Year
 
 | Document Date | Document Description
@@ -30,6 +32,8 @@ tags:
 | 2018/05/07    | [2016 Assessment](/CRA-docs/2016-Assessment.pdf)
 | 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf)
 
+[Back to the top](#table-of-contents)
+
 # 2015 Tax Year
 
 | Document Date | Document Description
@@ -38,11 +42,15 @@ tags:
 | 2016/10/18    | [2015 Reassessment](/CRA-docs/2015-Reassessment.pdf)
 | 2016/10/18    | [2015 Reassessment Letter](/CRA-docs/2015-income-tax.pdf)
 
+[Back to the top](#table-of-contents)
+
 # 2014 Tax Year
 
 | Document Date | Document Description
 |---------------|------------------------------------------
 | 2014/05/01    | [2014 Assessment](/CRA-docs/2014-income-tax.pdf)
+
+[Back to the top](#table-of-contents)
 
 * [2017 Assessment](/CRA-docs/2017-Assessment.pdf)
 * [2017 Income Tax](/CRA-docs/2017-income-tax.pdf)
@@ -55,6 +63,7 @@ tags:
 * [2018/08/10 OTB Notice for 2017](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
 * [2018/09/10 OTB Notice for 2017](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf)
 * [2018/09/24 Reassessment for 2016](/CRA-docs/2018-09-24-Ressessment-for-2016.pdf)
+
 * [2018/10/05 GST/HST Notice for 2016](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
 * [2018/10/10 OTB Notice for 2017](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
 * [2018/11/05 GST/HST Notice for 2016](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
@@ -66,6 +75,7 @@ tags:
 * [2019/01/21 OTB Notice for 2017](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
 * [2019/02/08 OTB Notice 2017](/CRA-docs/2019-02-08-OTB-Notice-for-2017.pdf)
 * [2019/02/15 Payment Summary for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
+
 * [2019/03/08 OTB Notice for 2017](/CRA-docs/2019-03-08-OTB-Notice-for-2017.pdf)
 * [2019/03/11 Taxpayer Relief: Decision Letter](/CRA-docs/2019-03-11-Decision-letter-taxpayer-relief.pdf)
 * [2019/03/18 Notice of Reassessment for 2017](/CRA-docs/2019-03-18-Notice-of-Reassessment-for-2017.pdf)
@@ -77,6 +87,7 @@ tags:
 * [2019/07/10 Notice of Collection](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
 * [2019/07/10 OTB Notice for 2017](/CRA-docs/2019-07-10-OTB-Notice-for-2017.pdf)
 * [2019/07/16 TFSA NOA](/CRA-docs/2019-07-16-TFSA-NOA.pdf)
+
 * [2019/08/21 GST/HST Notice for 2018](/CRA-docs/2019-08-21-GST-HST-Notice-for-2018.pdf)
 * [2019/08/22 Service complaints](/CRA-docs/2019-08-22-Service-complaints.pdf)
 * [2019/09/13 Service complains](/CRA-docs/2019-09-13-Service-complaints.pdf)
@@ -88,6 +99,7 @@ tags:
 * [2020/04/03 GST/HST Notice for 2018](/CRA-docs/2020-04-03-GST-HST-Notice-for-2018.pdf)
 * [2020/04/09 GST/HST Notice for 2018](/CRA-docs/2020-04-09-GST-HST-Notice-for-2018.pdf)
 * [2020/05/08 OTB Notice for 2018](/CRA-docs/2020-05-08-OTB-Notice-for-2018.pdf)
+
 * [2020/12/10 OTB Notice for 2018](/CRA-docs/2020-12-10-OTB-Notice-for-2018.pdf)
 * [2020 TFSA Letter](/CRA-docs/2020-TFSA-Letter.pdf)
 * [2020 TFSA NOR for 2018](/CRA-docs/2020-TFSA-NOR-2018.pdf)
