@@ -78,16 +78,18 @@ tags:
 
 # HST And Ontario Trillium Benefit Credits
 
-| Document Date | Type    | Period Start | Period End | Credit Amount
-|---------------|---------|--------------|------------|--------------
-| 2018/07/05    | HST     | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
-| 2018/08/10    | OTB     | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
+| Document Date | Type    | Entitlement Month | Period Start | Period End | Credit Amount
+|---------------|---------|-------------------|--------------|------------|--------------
+| 2018/10/10    | OTB     | October           | 2018/07      | 2019/06    | [Letter](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
+| 2018/10/05    | HST     | N/A               | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
+| 2018/07/05    | HST     | N/A               | 2018/07      | 2019/06    | [Letter](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
+| 2018/08/10    | OTB     | August            | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
 | 2018/09/10    | OTB     | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) (DUPE?)
 | 2018/06/05    | HST     | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
 | 2018/06/08    | OTB     | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
 
-* [2018/10/05 GST/HST Notice for 2016](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
-* [2018/10/10 OTB Notice for 2017](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
+[Back to the top](#table-of-contents)
+
 * [2018/11/05 GST/HST Notice for 2016](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
 * [2018/11/09 OTB Notice 2016](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
 * [2018/11/09 OTb Notice for 2017](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
