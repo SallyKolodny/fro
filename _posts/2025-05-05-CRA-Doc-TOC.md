@@ -17,6 +17,12 @@ tags:
 
 ---
 
+# 2018 Tax Year
+
+| Document Date | Document Description
+|---------------|------------------------------------------
+| 2018/05/14    | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
+
 # 2017 Tax Year
 
 | Document Date | Document Description
@@ -38,8 +44,7 @@ tags:
 | 2019/04/04    | [2016 Reassessment](/CRA-docs/2016-Reassessment-2.pdf)
 | 2018/09/24    | [2016 Reassessment](/CRA-docs/2016-Reassessment-1.pdf)
 | 2018/05/07    | [2016 Assessment](/CRA-docs/2016-Assessment.pdf)
-| 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2018-05-07-Notice-of-Assessment-for-2016.pdf)
-| 2018/05/07    | [2016 Notice of Assessment](/CRA-docs/2016-05-07-Notice-of-Assessment.pdf) DUPE?
+| 2018/05/07    | [2016 Assessment](/CRA-docs/2018-05-07-Notice-of-Assessment-for-2016.pdf)
 
 [Back to the top](#table-of-contents)
 
@@ -49,9 +54,9 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
-| 2015/03/17    | [2015 Assessment](/CRA-docs/2015-Assessment.pdf)
-| 2016/10/18    | [2015 Reassessment](/CRA-docs/2015-Reassessment.pdf)
 | 2016/10/18    | [2015 Reassessment Letter](/CRA-docs/2015-income-tax.pdf)
+| 2016/10/18    | [2015 Reassessment](/CRA-docs/2015-Reassessment.pdf)
+| 2015/03/17    | [2015 Assessment](/CRA-docs/2015-Assessment.pdf)
 
 [Back to the top](#table-of-contents)
 
@@ -67,7 +72,6 @@ tags:
 
 ---
 
-* [2018/05/14 PAD Aggreement Letter](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 * [2018/06/05 GST/HST Notice for 2016](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
 * [2018/06/08 OTB Notice for 2016](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
 * [2018/07/05 GST/HST Notice for 2017](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
