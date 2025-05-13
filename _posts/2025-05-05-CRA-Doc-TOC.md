@@ -74,7 +74,12 @@ tags:
 
 ---
 
-* [2018/06/05 GST/HST Notice for 2016](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
+# GST/HST Credits
+
+| Document Date | Period Start | Period End | Credit Amount
+|---------------|--------------|------------|--------------
+| 2018/06/05    | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
+
 * [2018/06/08 OTB Notice for 2016](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
 * [2018/07/05 GST/HST Notice for 2017](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
 * [2018/08/10 OTB Notice for 2017](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
