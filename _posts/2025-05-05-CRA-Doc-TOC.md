@@ -16,7 +16,7 @@ tags:
 * [2016 Tax Year](#2016-tax-year)
 * [2015 Tax Year](#2015-tax-year)
 * [2014 Tax Year](#2014-tax-year)
-* [OTB Credits](#otb-credits)
+* [OTB Credits Applied to Child Support](#otb-credits-applied-to-child-support)
 * [OTB Credits Applied to Income Tax Account](#otb-credits-applied-to-income-tax-account)
 * [OTB Credits Applied to OTB Account](#otb-credits-applied-to-otb-account)
 * [HST Credits](#hst-credits)
@@ -96,11 +96,10 @@ tags:
 
 ---
 
-# OTB Credits
+# OTB Credits Applied to Child Support
 
 | Document Date | Entitlement Month | Period Start | Period End | Credit Amount
 |---------------|-------------------|--------------|------------|--------------
-| 2018/10/10    | October           | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
 | 2018/09/10    | September         | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) 
 | 2018/08/10    | August            | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
 | 2018/06/08    | July              | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
@@ -115,6 +114,7 @@ tags:
 | 2019/03/08    | March             | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2019-03-08-OTB-Notice-for-2017.pdf)
 | 2018/11/09    | November          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
 | 2018/11/09    | N/A               | 2017/07      | 2018/06    | [Letter](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
+| 2018/10/10    | October           | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
 
 
 # OTB Credits Applied to OTB Account
