@@ -17,6 +17,8 @@ tags:
 * [2015 Tax Year](#2015-tax-year)
 * [2014 Tax Year](#2014-tax-year)
 * [OTB Credits](#otb-credits)
+* [OTB Credits Applied to Income Tax Account](#otb-credits-applied-to-income-tax-account)
+* [OTB Credits Applied to OTB Account](#otb-credits-applied-to-otb-account)
 * [HST Credits](#hst-credits)
 
 ---
@@ -27,6 +29,8 @@ tags:
 |---------------|------------------------------------------
 | 2019/06/10    | [Statement of Account](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
 | 2019/06/10    | [Notice of Collection](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
+
+---
 
 # 2018 Tax Year
 
@@ -100,7 +104,7 @@ tags:
 | 2018/09/10    | September         | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) 
 | 2018/08/10    | August            | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
 | 2018/06/08    | July              | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
-| 2018/11/09    | N/A               | 2017/07      | 2018/06    | [Letter](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
+| 2019/01/10    | N/A               | 2019/07      | 2020/06    | [$179.67](/CRA-docs/2019-01-10-OTB-Notice-for-2018.pdf)
 
 [Back to the top](#table-of-contents)
 
@@ -108,18 +112,23 @@ tags:
 
 | Document Date | Entitlement Month | Period Start | Period End | Credit Amount
 |---------------|-------------------|--------------|------------|--------------
+| 2019/03/08    | March             | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2019-03-08-OTB-Notice-for-2017.pdf)
 | 2018/11/09    | November          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
+| 2018/11/09    | N/A               | 2017/07      | 2018/06    | [Letter](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
 
-* [2019/01/10 OTB Notice for 2018](/CRA-docs/2019-01-10-OTB-Notice-for-2018.pdf)
-* [2019/01/21 OTB Notice for 2017](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
-* [2019/02/08 OTB Notice 2017](/CRA-docs/2019-02-08-OTB-Notice-for-2017.pdf)
-* [2019/03/08 OTB Notice for 2017](/CRA-docs/2019-03-08-OTB-Notice-for-2017.pdf)
-* [2019/04/10 OTB Notice for 2017](/CRA-docs/2019-04-10-OTB-Notice-for-2017.pdf)
-* [2019/06/21 OTB Notice for 2017](/CRA-docs/2019-06-21-OTB-Notice-for-2017.pdf)
-* [2019/07/10 OTB Notice for 2017](/CRA-docs/2019-07-10-OTB-Notice-for-2017.pdf)
-* [2019/09/21 OTB Notice for 2018](/CRA-docs/2019-09-21-OTB-Notice-for-2018.pdf)
-* [2020/05/08 OTB Notice for 2018](/CRA-docs/2020-05-08-OTB-Notice-for-2018.pdf)
-* [2020/12/10 OTB Notice for 2018](/CRA-docs/2020-12-10-OTB-Notice-for-2018.pdf)
+
+# OTB Credits Applied to OTB Account
+
+| Document Date | Entitlement Month | Period Start | Period End | Credit Amount
+|---------------|-------------------|--------------|------------|--------------
+| 2020/12/10    | N/A               | 2019/07      | 2020/06    | [$102.67](/CRA-docs/2020-12-10-OTB-Notice-for-2018.pdf)
+| 2020/05/08    | N/A               | 2019/07      | 2020/06    | [Amount due: $102.67](/CRA-docs/2020-05-08-OTB-Notice-for-2018.pdf)
+| 2019/07/10    | July              | 2018/07      | 2019/06    | [-$329.81](/CRA-docs/2019-07-10-OTB-Notice-for-2017.pdf)
+| 2019/06/21    | N/A               | N/A          | N/A        | [Notice](/CRA-docs/2019-06-21-OTB-Notice-for-2017.pdf)
+| 2019/04/10    | N/A               | 2018/07      | 2019/06    | [Notice](/CRA-docs/2019-04-10-OTB-Notice-for-2017.pdf)
+| 2019/02/08    | February          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2019-02-08-OTB-Notice-for-2017.pdf)
+| 2019/01/21    | N/A               | N/A          | N/A        | [Notice](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
+| 2019/09/21    | N/A               | N/A          | N/A        | [Amount due: $329.81](/CRA-docs/2019-09-21-OTB-Notice-for-2018.pdf)
 
 ---
 
@@ -133,7 +142,7 @@ tags:
 
 [Back to the top](#table-of-contents)
 
-* [2018/11/05 GST/HST Notice for 2016](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
+* 2018/11/05 GST/HST Notice for 2016](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
 * [2019/04/10 GST/HST Notice for 2017](/CRA-docs/2019-04-10-GST-HST-Notice-for-2017.pdf)
 * [2019/08/21 GST/HST Notice for 2018](/CRA-docs/2019-08-21-GST-HST-Notice-for-2018.pdf)
 * [2019/10/21 GST/HST Notice for 2018](/CRA-docs/2019-10-21-GST-HST-Notice-for-2018.pdf)
