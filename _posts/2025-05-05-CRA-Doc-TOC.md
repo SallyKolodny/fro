@@ -36,8 +36,8 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
-| 2019/11/21    | [2018 Assessment](/CRA-docs/2018-Assessment.pdf)
-| 2019/11/21    | [2018 Assessment](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf) (DUPE?)
+| 2019/11/21    | [2018 Assessment](/CRA-docs/2018-Assessment.pdf): $349.33 transferred to Child Support Account
+| 2019/11/21    | [2018 Assessment](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf)
 | 2018/05/14    | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 | 2019/01/03    | [Payment receipt ($428) for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
 
