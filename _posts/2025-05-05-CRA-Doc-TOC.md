@@ -21,6 +21,8 @@ tags:
 * [OTB Credits Applied to OTB Account](#otb-credits-applied-to-otb-account)
 * [HST Credits Applied to Child Support](#hst-credits-applied-to-child-support)
 * [HST Account](#hst-account)
+* [TFSA Refund Applied to Child Support](#tfsa-refund-applied-to-child-support)
+* [TFSA Account](#tfsa-account)
 
 ---
 
@@ -165,13 +167,33 @@ tags:
 
 [Back to the top](#table-of-contents)
 
+---
 
-* [2019/07/16 TFSA NOA](/CRA-docs/2019-07-16-TFSA-NOA.pdf)
-* [2019/01/15 Additional Information Required for Taxpayer Relief](/CRA-docs/2019-01-15-Additional-information-required-taxpayer-relief.pdf)
-* [2019/03/11 Taxpayer Relief: Decision Letter](/CRA-docs/2019-03-11-Decision-letter-taxpayer-relief.pdf)
-* [2020 TFSA Letter](/CRA-docs/2020-TFSA-Letter.pdf)
-* [2020 TFSA NOR for 2018](/CRA-docs/2020-TFSA-NOR-2018.pdf)
+# TFSA Refund Applied to Child Support
 
-* [2019/08/22 Service complaints](/CRA-docs/2019-08-22-Service-complaints.pdf)
-* [2019/09/13 Service complains](/CRA-docs/2019-09-13-Service-complaints.pdf)
+| Document Date | Document Description
+|---------------|--------------------------
+| 2020/11/03    | [TFSA Refund $3,972.46](/CRA-docs/2020-TFSA-NOR-2018.pdf)
+
+[Back to the top](#table-of-contents)
+
+---
+
+# TFSA Account
+
+| Document Date | Document Description
+|---------------|--------------------------
+| 2019/07/16    | [Notice of Assessment: Amount due: $9,074.06](/CRA-docs/2019-07-16-TFSA-NOA.pdf)
+| 2019/01/15    | [Request for Additional Information](/CRA-docs/2019-01-15-Additional-information-required-taxpayer-relief.pdf)
+| 2019/03/11    | [Decision Letter in my Favour](/CRA-docs/2019-03-11-Decision-letter-taxpayer-relief.pdf)
+[ 2020/10/27    | [Decision Letter in my Favour](/CRA-docs/2020-TFSA-Letter.pdf)
+
+---
+
+# CRA Complaint Process
+
+| Document Date | Document Description
+|---------------|------------------------------------------
+| 2019/08/22    | [Acknowledgement of Complaint](/CRA-docs/2019-08-22-Service-complaints.pdf)
+| 2019/09/13    | [Decision Letter in my Favour](/CRA-docs/2019-09-13-Service-complaints.pdf)
 
