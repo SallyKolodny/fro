@@ -93,7 +93,6 @@ tags:
 
 [Back to the top](#table-of-contents)
 
-
 ---
 
 # OTB Credits Applied to Child Support
@@ -107,15 +106,19 @@ tags:
 
 [Back to the top](#table-of-contents)
 
+---
+
 # OTB Credits Applied to Income Tax Account
 
 | Document Date | Entitlement Month | Period Start | Period End | Credit Amount
 |---------------|-------------------|--------------|------------|--------------
 | 2019/03/08    | March             | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2019-03-08-OTB-Notice-for-2017.pdf)
 | 2018/11/09    | November          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
-| 2018/11/09    | N/A               | 2017/07      | 2018/06    | [Letter](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
 | 2018/10/10    | October           | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
 
+[Back to the top](#table-of-contents)
+
+---
 
 # OTB Credits Applied to OTB Account
 
@@ -123,12 +126,15 @@ tags:
 |---------------|-------------------|--------------|------------|--------------
 | 2020/12/10    | N/A               | 2019/07      | 2020/06    | [$102.67](/CRA-docs/2020-12-10-OTB-Notice-for-2018.pdf)
 | 2020/05/08    | N/A               | 2019/07      | 2020/06    | [Amount due: $102.67](/CRA-docs/2020-05-08-OTB-Notice-for-2018.pdf)
-| 2019/07/10    | July              | 2018/07      | 2019/06    | [-$329.81](/CRA-docs/2019-07-10-OTB-Notice-for-2017.pdf)
-| 2019/06/21    | N/A               | N/A          | N/A        | [Notice](/CRA-docs/2019-06-21-OTB-Notice-for-2017.pdf)
-| 2019/04/10    | N/A               | 2018/07      | 2019/06    | [Notice](/CRA-docs/2019-04-10-OTB-Notice-for-2017.pdf)
+| 2019/07/10    | July              | 2018/07      | 2019/06    | [Amount due: $329.81](/CRA-docs/2019-07-10-OTB-Notice-for-2017.pdf)
+| 2019/06/21    | N/A               | N/A          | N/A        | [Amount due: $264.18](/CRA-docs/2019-06-21-OTB-Notice-for-2017.pdf)
+| 2019/04/10    | N/A               | 2018/07      | 2019/06    | [Amount due: $309.74](/CRA-docs/2019-04-10-OTB-Notice-for-2017.pdf)
 | 2019/02/08    | February          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2019-02-08-OTB-Notice-for-2017.pdf)
-| 2019/01/21    | N/A               | N/A          | N/A        | [Notice](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
 | 2019/09/21    | N/A               | N/A          | N/A        | [Amount due: $329.81](/CRA-docs/2019-09-21-OTB-Notice-for-2018.pdf)
+| 2019/01/21    | N/A               | N/A          | N/A        | [Amount due: $296.00](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
+| 2018/11/09    | N/A               | 2017/07      | 2018/06    | [Amount due: $296.00](/CRA-docs/2018-11-09-OTB-Notice-for-2016.pdf)
+
+[Back to the top](#table-of-contents)
 
 ---
 
