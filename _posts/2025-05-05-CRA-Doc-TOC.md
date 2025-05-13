@@ -34,6 +34,8 @@ tags:
 | 2019/06/10    | [Amount due: $5,263.18](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
 | 2019/06/10    | [Notice of Collection for $5,295.29](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
 
+[Back to the top](#table-of-contents)
+
 ---
 
 # 2018 Tax Year
@@ -44,6 +46,8 @@ tags:
 | 2019/11/21    | [2018 Assessment](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf)
 | 2018/05/14    | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 | 2019/01/03    | [Payment receipt ($428) for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
+
+[Back to the top](#table-of-contents)
 
 ---
 
@@ -189,6 +193,8 @@ tags:
 | 2019/03/11    | [Decision Letter in my Favour](/CRA-docs/2019-03-11-Decision-letter-taxpayer-relief.pdf)
 [ 2020/10/27    | [Decision Letter in my Favour](/CRA-docs/2020-TFSA-Letter.pdf)
 
+[Back to the top](#table-of-contents)
+
 ---
 
 # CRA Complaint Process
@@ -197,4 +203,6 @@ tags:
 |---------------|------------------------------------------
 | 2019/08/22    | [Acknowledgement of Complaint](/CRA-docs/2019-08-22-Service-complaints.pdf)
 | 2019/09/13    | [Decision Letter in my Favour](/CRA-docs/2019-09-13-Service-complaints.pdf)
+
+[Back to the top](#table-of-contents)
 
