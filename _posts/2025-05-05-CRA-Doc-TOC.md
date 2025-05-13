@@ -19,7 +19,8 @@ tags:
 * [OTB Credits Applied to Child Support](#otb-credits-applied-to-child-support)
 * [OTB Credits Applied to Income Tax Account](#otb-credits-applied-to-income-tax-account)
 * [OTB Credits Applied to OTB Account](#otb-credits-applied-to-otb-account)
-* [HST Credits](#hst-credits)
+* [HST Credits Applied to Child Support](#hst-credits-applied-to-child-support)
+* [HST Account](#hst-account)
 
 ---
 
