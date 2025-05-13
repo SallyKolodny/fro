@@ -81,10 +81,10 @@ tags:
 
 | Document Date | Type    | Entitlement Month | Period Start | Period End | Credit Amount
 |---------------|---------|-------------------|--------------|------------|--------------
-| 2018/10/10    | OTB     | October           | 2018/07      | 2019/06    | [Letter](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
+| 2018/10/10    | OTB     | October           | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
+| 2018/09/10    | OTB     | September         | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) 
 | 2018/08/10    | OTB     | August            | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
-| 2018/09/10    | OTB     | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) (DUPE?)
-| 2018/06/08    | OTB     | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
+| 2018/06/08    | OTB     | July              | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
 
 [Back to the top](#table-of-contents)
 
@@ -92,11 +92,11 @@ tags:
 
 # HST Credits
 
-| Document Date | Period Start | Period End | Credit Amount
-|---------------|--------------|------------|--------------
-| 2018/10/05    | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
-| 2018/07/05    | 2018/07      | 2019/06    | [Letter](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
-| 2018/06/05    | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
+| Document Date | Entitlement Month(s) | Period Start | Period End | Credit Amount
+|---------------|----------------------|--------------|------------|--------------
+| 2018/10/05    | October              | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
+| 2018/07/05    | July                 | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
+| 2018/06/05    | July to April        | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
 
 [Back to the top](#table-of-contents)
 
