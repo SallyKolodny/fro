@@ -23,6 +23,8 @@ tags:
 |---------------|------------------------------------------
 | 2018/05/14    | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
 
+---
+
 # 2017 Tax Year
 
 | Document Date | Document Description
