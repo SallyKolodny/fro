@@ -10,6 +10,8 @@ tags:
 
 # Table of Contents
 
+* [2019 Tax Year](#2019-tax-year)
+* [2018 Tax Year](#2018-tax-year)
 * [2017 Tax Year](#2017-tax-year)
 * [2016 Tax Year](#2016-tax-year)
 * [2015 Tax Year](#2015-tax-year)
@@ -19,11 +21,21 @@ tags:
 
 ---
 
+# 2019 Tax Year
+
+| Document Date | Document Description
+|---------------|------------------------------------------
+| 2019/06/10    | [Statement of Account](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
+| 2019/06/10    | [Notice of Collection](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
+
 # 2018 Tax Year
 
 | Document Date | Document Description
 |---------------|------------------------------------------
+| 2019/11/21    | [2018 Assessment](/CRA-docs/2018-Assessment.pdf)
+| 2019/11/21    | [2018 Assessment](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf) (DUPE?)
 | 2018/05/14    | [Pre-Authorized Debit Confirmation](/CRA-docs/2018-05-14-PAD-Agreement-Letter.pdf)
+| 2019/01/03    | [Payment receipt ($428) for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
 
 ---
 
@@ -31,6 +43,7 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
+| 2019/03/18    | [2017 Notice of Reassessment for 2017](/CRA-docs/2019-03-18-Notice-of-Reassessment-for-2017.pdf)
 | 2018/04/30    | [2017 Notice of Assessment](/CRA-docs/2018-04-30-Notice-of-Assessment-for-2017.pdf)
 | 2018/04/30    | [2017 Assessment](/CRA-docs/2017-Assessment.pdf)
 | 2018/04/30    | [2017 Reassessment Letter](/CRA-docs/2016-03-17-Notice-of-Assessment.pdf)
@@ -45,6 +58,7 @@ tags:
 | Document Date | Document Description
 |---------------|------------------------------------------
 | 2019/08/30    | [2016 Reassessment](/CRA-docs/2016-income-tax.pdf) 
+| 2019/04/04    | [2016 Notice of Reassessment](/CRA-docs/2019-04-04-Notice-of-Reassessment-for-2016.pdf)
 | 2019/04/04    | [2016 Reassessment](/CRA-docs/2016-Reassessment-2.pdf)
 | 2018/09/24    | [2016 Reassessment Letter](/CRA-docs/2018-09-24-Ressessment-for-2016.pdf)
 | 2018/09/24    | [2016 Reassessment](/CRA-docs/2016-Reassessment-1.pdf)
@@ -75,14 +89,7 @@ tags:
 
 [Back to the top](#table-of-contents)
 
-* [2018 Assessment](/CRA-docs/2018-Assessment.pdf)
-* [2019/02/15 Payment Summary for 2018](/CRA-docs/2019-02-15-Payment-Summary-for-2018.pdf)
-* [2019/03/18 Notice of Reassessment for 2017](/CRA-docs/2019-03-18-Notice-of-Reassessment-for-2017.pdf)
-* [2019/04/04 Notice of Reassessment for 2016](/CRA-docs/2019-04-04-Notice-of-Reassessment-for-2016.pdf)
-* [2019/06/10 Statement of Account](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
-* [2019/07/10 Notice of Collection](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
-* [2019/11/21 Notice of Assessment for 2018](/CRA-docs/2019-11-21-Notice-of-Assessment-for-2018.pdf)
-* [2020/02/15 Payment Summary for 2019](/CRA-docs/2020-02-15-Payment-Summary-for-2019.pdf)
+
 ---
 
 # OTB Credits
