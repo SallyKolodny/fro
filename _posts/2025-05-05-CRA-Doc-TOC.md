@@ -14,6 +14,7 @@ tags:
 * [2016 Tax Year](#2016-tax-year)
 * [2015 Tax Year](#2015-tax-year)
 * [2014 Tax Year](#2014-tax-year)
+* [HST And Ontario Trillium Benefit Credits](#hst-and-ontario-trillium-benefit-credits)
 
 ---
 
@@ -44,6 +45,7 @@ tags:
 |---------------|------------------------------------------
 | 2019/08/30    | [2016 Reassessment](/CRA-docs/2016-income-tax.pdf) 
 | 2019/04/04    | [2016 Reassessment](/CRA-docs/2016-Reassessment-2.pdf)
+| 2018/09/24    | [2016 Reassessment Letter](/CRA-docs/2018-09-24-Ressessment-for-2016.pdf)
 | 2018/09/24    | [2016 Reassessment](/CRA-docs/2016-Reassessment-1.pdf)
 | 2018/05/07    | [2016 Assessment](/CRA-docs/2016-Assessment.pdf)
 | 2018/05/07    | [2016 Assessment](/CRA-docs/2018-05-07-Notice-of-Assessment-for-2016.pdf)
@@ -74,17 +76,15 @@ tags:
 
 ---
 
-# GST/HST And Ontario Trillium Benefit Credits
+# HST And Ontario Trillium Benefit Credits
 
 | Document Date | Type    | Period Start | Period End | Credit Amount
 |---------------|---------|--------------|------------|--------------
-| 2018/06/05    | GST/HST | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
-| 2018/06/08    | OTB     | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
-| 2018/07/05    | GST/HST | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
+| 2018/07/05    | HST     | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
 | 2018/08/10    | OTB     | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-08-10-OTB-Notice-for-2017.pdf)
-
-* [2018/09/10 OTB Notice for 2017](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf)
-* [2018/09/24 Reassessment for 2016](/CRA-docs/2018-09-24-Ressessment-for-2016.pdf)
+| 2018/09/10    | OTB     | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-09-10-OTB-Notice-for-2017.pdf) (DUPE?)
+| 2018/06/05    | HST     | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
+| 2018/06/08    | OTB     | 2017/07      | 2018/06    | [$296.00](/CRA-docs/2018-06-08-OTB-Notice-for-2016.pdf)
 
 * [2018/10/05 GST/HST Notice for 2016](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
 * [2018/10/10 OTB Notice for 2017](/CRA-docs/2018-10-10-OTB-Notice-for-2017.pdf)
