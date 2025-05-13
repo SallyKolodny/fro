@@ -27,8 +27,8 @@ tags:
 
 | Document Date | Document Description
 |---------------|------------------------------------------
-| 2019/06/10    | [Statement of Account](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
-| 2019/06/10    | [Notice of Collection](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
+| 2019/06/10    | [Amount due: $5,263.18](/CRA-docs/2019-06-10-Statement-of-Account.pdf)
+| 2019/06/10    | [Notice of Collection for $5,295.29](/CRA-docs/2019-07-10-Notice-of-Collection.pdf)
 
 ---
 
@@ -138,23 +138,32 @@ tags:
 
 ---
 
-# HST Credits
+# HST Credits Applied to Child Support
 
 | Document Date | Entitlement Month(s) | Period Start | Period End | Credit Amount
 |---------------|----------------------|--------------|------------|--------------
+| 2020/04/09    | July to April        | 2019/07      | 2020/06    | [$290.00](/CRA-docs/2020-04-09-GST-HST-Notice-for-2018.pdf)
+| 2020/04/03    | April                | 2019/07      | 2020/06    | [$72.50](/CRA-docs/2020-04-03-GST-HST-Notice-for-2018.pdf)
+| 2020/01/03    | January              | N/A          | N/A        | [$21.57](/CRA-docs/2020-01-03-GST-HST-Notice-for-2018.pdf)
 | 2018/10/05    | October              | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-10-05-GST-HST-Notice-for-2016.pdf)
 | 2018/07/05    | July                 | 2018/07      | 2019/06    | [$108.25](/CRA-docs/2018-07-05-GST-HST-Notice-for-2017.pdf)
 | 2018/06/05    | July to April        | 2017/07      | 2018/06    | [$280.00](/CRA-docs/2018-06-05-GST-HST-Notice-for-2016.pdf)
 
 [Back to the top](#table-of-contents)
 
-* 2018/11/05 GST/HST Notice for 2016](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
-* [2019/04/10 GST/HST Notice for 2017](/CRA-docs/2019-04-10-GST-HST-Notice-for-2017.pdf)
-* [2019/08/21 GST/HST Notice for 2018](/CRA-docs/2019-08-21-GST-HST-Notice-for-2018.pdf)
-* [2019/10/21 GST/HST Notice for 2018](/CRA-docs/2019-10-21-GST-HST-Notice-for-2018.pdf)
-* [2020/01/03 GST/HST Notice for 2018](/CRA-docs/2020-01-03-GST-HST-Notice-for-2018.pdf)
-* [2020/04/03 GST/HST Notice for 2018](/CRA-docs/2020-04-03-GST-HST-Notice-for-2018.pdf)
-* [2020/04/09 GST/HST Notice for 2018](/CRA-docs/2020-04-09-GST-HST-Notice-for-2018.pdf)
+---
+
+# HST Account
+
+| Document Date | Entitlement Month(s) | Period Start | Period End | Credit Amount
+|---------------|----------------------|--------------|------------|--------------
+| 2019/04/10    | N/A                  | 2018/07      | 2019/06    | [Amount due: $215.45](/CRA-docs/2019-04-10-GST-HST-Notice-for-2017.pdf)
+| 2018/11/05    | N/A                  | N/A          | N/A        | [Amount due: $215.45](/CRA-docs/2018-11-05-GST-HST-notice-for-2016.pdf)
+| 2019/10/21    | N/A                  | N/A          | N/A        | [Amount due: $215.45](/CRA-docs/2019-10-21-GST-HST-Notice-for-2018.pdf)
+| 2019/08/21    | N/A                  | N/A          | N/A        | [Amount due: $215.45](/CRA-docs/2019-08-21-GST-HST-Notice-for-2018.pdf)
+
+[Back to the top](#table-of-contents)
+
 
 * [2019/07/16 TFSA NOA](/CRA-docs/2019-07-16-TFSA-NOA.pdf)
 * [2019/01/15 Additional Information Required for Taxpayer Relief](/CRA-docs/2019-01-15-Additional-information-required-taxpayer-relief.pdf)
