@@ -104,7 +104,12 @@ tags:
 
 [Back to the top](#table-of-contents)
 
-* [2018/11/09 OTb Notice for 2017](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
+# OTB Credits Applied to Income Tax Account
+
+| Document Date | Entitlement Month | Period Start | Period End | Credit Amount
+|---------------|-------------------|--------------|------------|--------------
+| 2018/11/09    | November          | 2018/07      | 2019/06    | [$31.82](/CRA-docs/2018-11-09-OTB-Notice-for-2017.pdf)
+
 * [2019/01/10 OTB Notice for 2018](/CRA-docs/2019-01-10-OTB-Notice-for-2018.pdf)
 * [2019/01/21 OTB Notice for 2017](/CRA-docs/2019-01-21-OTB-Notice-for-2017.pdf)
 * [2019/02/08 OTB Notice 2017](/CRA-docs/2019-02-08-OTB-Notice-for-2017.pdf)
